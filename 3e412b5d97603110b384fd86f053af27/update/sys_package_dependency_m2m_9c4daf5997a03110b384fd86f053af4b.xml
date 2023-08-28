@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">010fdcb2d423211095d7c105f1bf4308</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:16:55</sys_created_on>
+        <sys_id>9c4daf5997a03110b384fd86f053af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1108388_animal_0">3e412b5d97603110b384fd86f053af27</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:16:55</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9636e79197a03110b384fd86f053afec" label="Adoption Application" max_length="40" name="x_1108388_animal_0_adoption_application" type="collection">
+        <element label="Animal" mandatory="true" max_length="32" name="animal" reference="x_1108388_animal_0_animal" type="reference"/>
+        <element label="Description" max_length="3000" name="description" type="string"/>
+        <element label="Email" mandatory="true" max_length="300" name="email" type="string"/>
+        <element label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded" display="true" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element default="2008-10-12" label="Pick Up Date" mandatory="true" max_length="40" name="pick_up_date" type="string"/>
+        <element choice="3" default="submitted" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="submitted"/>
+                <element inactive_on_update="false" label="Declined" sequence="1" value="declined"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="animal"/>
+        </index>
+    </element>
+</database>
