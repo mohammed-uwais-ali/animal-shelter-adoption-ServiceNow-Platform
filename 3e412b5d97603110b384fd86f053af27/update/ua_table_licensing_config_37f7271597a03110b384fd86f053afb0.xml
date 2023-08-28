@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1108388_animal_0_breed</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:53:56</sys_created_on>
+        <sys_id>37f7271597a03110b384fd86f053afb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1108388_animal_0_breed</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1108388_animal_0">3e412b5d97603110b384fd86f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">3e412b5d97603110b384fd86f053af27</sys_scope>
+        <sys_update_name>ua_table_licensing_config_37f7271597a03110b384fd86f053afb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:53:56</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

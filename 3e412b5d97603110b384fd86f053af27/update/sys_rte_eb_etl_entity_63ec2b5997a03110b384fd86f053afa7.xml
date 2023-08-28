@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_1108388_animal_0_ihub_import_2dace35997a03110b384fd86f053afa3</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:15:29</sys_created_on>
+        <sys_id>63ec2b5997a03110b384fd86f053afa7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1108388_animal_0_ihub_import_2dace35997a03110b384fd86f053afa3</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1108388_animal_0">3e412b5d97603110b384fd86f053af27</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Breed XLSX_etl_ihub">63ec671997a03110b384fd86f053af00</sys_rte_eb_definition>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">3e412b5d97603110b384fd86f053af27</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_63ec2b5997a03110b384fd86f053afa7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:15:29</sys_updated_on>
+        <table>x_1108388_animal_0_ihub_import_2dace35997a03110b384fd86f053afa3</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

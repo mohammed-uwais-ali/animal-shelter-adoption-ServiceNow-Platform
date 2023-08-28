@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FDabcca75937a0311049b1e27cd0dff696</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>3e412b5d97603110b384fd86f053af27</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FDabcca75937a0311049b1e27cd0dff696":{"u_name":"String","u_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"name\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_type":"String","u_type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"type\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FDabcca75937a0311049b1e27cd0dff696.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FDabcca75937a0311049b1e27cd0dff696\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:14:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fcca75997a03110b384fd86f053af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FDabcca75937a0311049b1e27cd0dff696</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1108388_animal_0">3e412b5d97603110b384fd86f053af27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">3e412b5d97603110b384fd86f053af27</sys_scope>
+        <sys_update_name>sys_complex_object_6fcca75997a03110b384fd86f053af96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:14:56</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
